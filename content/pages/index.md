@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: false
+hide_title: true
 sections:
   - section_id: latest-projects
     type: section_portfolio
